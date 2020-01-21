@@ -1,5 +1,6 @@
 /**
  * @format
+ * Oraphun Chokerungrueng
  */
 
 import {AppRegistry} from 'react-native';
